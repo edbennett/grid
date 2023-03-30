@@ -1,6 +1,6 @@
 # CI Test
 
-[![Run tests](https://github.com/USERNAME/grid/actions/workflows/pytest.yaml/badge.svg)](https://github.com/USERNAME/grid/actions/workflows/pytest.yaml)
+[![Run tests](https://github.com/edbennett/grid/actions/workflows/pytest.yaml/badge.svg)](https://github.com/edbennett/grid/actions/workflows/pytest.yaml)
 
 
 ## About
